@@ -104,21 +104,6 @@ cd easy-travel
 
 3. Open `index.html` in browser
 
----
-
-## 🌐 Live Demo
-
-GitHub Pages Deployment:
-
-Add your live project link here.
-
-Example:
-
-```text
-https://yourusername.github.io/easy-travel/
-```
-
----
 
 ## 👨‍💻 Author
 
